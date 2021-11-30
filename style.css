@@ -1,0 +1,55 @@
+body {
+    background-image: url(Background.png);
+    font-size: 38px;
+    text-align: center;
+    font-family: 'Sue Ellen Francisco';
+    margin-left: 30px;
+}
+
+.blue {
+    color: rgb(164, 194, 244);
+}
+
+.green {
+    color: rgb(182, 215, 168)
+}
+
+.yellow {
+    color: rgb(255, 229, 153);
+}
+
+.red {
+    color: rgb(234, 153, 153);
+}
+
+.p-tag-title {
+    font-size: 70px;
+    font-weight: underline;
+    display: inline;
+    float: center;
+}
+
+.p-tag-name {
+    font-size: 60px;
+    font-weight: underline;
+    display: inline;
+    float: center;
+}
+
+.p-tag {
+    text-align: left;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.img1 {
+    display: inline;
+    float: center;
+}
+
+.img2 {
+    display: inline;
+    float: center;
+}
